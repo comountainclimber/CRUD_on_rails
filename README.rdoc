@@ -1,1 +1,2 @@
-My first stab at developing in the rails framework. This application will ultimately include user authentication, a postgreSQL database with 'dank recipes', and use Angular 1 for the front end logic.
+<h1> CRUD on rails </h1>
+My first stab at developing in the rails framework. This application will ultimately include user authentication, a postgreSQL database with 'dank recipes', and leverage Angular 1 for the front end logic.
