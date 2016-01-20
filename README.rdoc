@@ -1,2 +1,2 @@
-<h1> CRUD on rails </h1>
+== CRUD on rails
 My first stab at developing in the rails framework. This application will ultimately include user authentication, a postgreSQL database with 'dank recipes', and leverage Angular 1 for the front end logic.
